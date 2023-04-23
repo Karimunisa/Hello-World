@@ -5,8 +5,6 @@
 <h2> Welcome to harsha trainings </h2>
 
 
-<h1> All the best </h1>
-
 
 
 
